@@ -8,5 +8,5 @@ edition = "2018"
 
 [dependencies]
 
-nannou = "0.16"
+nannou = "0.17"
 palette = "*" 
